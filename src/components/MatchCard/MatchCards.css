@@ -1,0 +1,16 @@
+.card   {
+    background-color: #fff;
+    text-align: left;
+    border-radius: 3px;
+    position: relative;
+}
+
+.card > .img-container  {
+    background-color: black;
+    text-align: center;
+    overflow: hidden;
+}
+.card > img-container > img{
+    height: 80%;
+    width: 80%;
+}

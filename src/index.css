@@ -1,0 +1,20 @@
+*   {
+    font-family: sans sarif;
+    box-sizing: border-box;
+}
+
+html    {
+    padding: 0;
+    margin: 0;
+    height: 100%
+}
+body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+#root   {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}

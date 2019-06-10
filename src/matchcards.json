@@ -1,0 +1,103 @@
+[
+
+    {
+  
+      "id": 1,
+  
+      "image": "./assets/images/jack-canfield.jpg",
+  
+      "clicked": false
+  
+    },
+  
+    {
+  
+      "id": 2,
+  
+      "image": "./assets/images/mark-victor-hansen.jpg",
+  
+      "clicked": false
+  
+    },
+  
+    {
+  
+      "id": 3,
+  
+      "image": "./assets/images/brian-tracy.jpg",
+  
+      "clicked": false
+  
+    },
+  
+    {
+  
+      "id": 4,
+  
+      "image": "./assets/images/bob-proctor.jpg",
+  
+      "clicked": false
+  
+    },
+  
+    {
+  
+      "id": 5,
+  
+      "image": "./assets/images/john-assaraf.jpg",
+  
+      "clicked": false
+  
+    },
+  
+    {
+  
+      "id": 6,
+  
+      "image": "./assets/images/jim-rohn.jpg",
+  
+      "clicked": false
+  
+    },
+  
+    {
+  
+      "id": 7,
+  
+      "image": "./assets/images/napoleon-hill.jpg",
+  
+      "clicked": false
+  
+    },
+  
+    {
+  
+      "id": 8,
+  
+      "image": "./assets/images/w-clement-stone.jpg",
+  
+      "clicked": false
+  
+    },
+  
+    {
+  
+      "id": 9,
+  
+      "image": "./assets/images/john-c-maxwell.jpg",
+  
+      "clicked": false
+  
+    },
+  
+    {
+  
+      "id": 10,
+  
+      "image": "./assets/images/david-allen.jpg",
+  
+      "clicked": false
+  
+    }
+  
+  ]
